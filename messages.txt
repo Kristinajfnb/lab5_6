@@ -1,0 +1,15 @@
+name: Мария
+message: Норм
+age: 78
+email: tuh@mail.ru
+
+name: Мария
+message: Норм
+age: 78
+email: tuh@mail.ru
+
+name: Андрей
+message: Очень хорошее
+age: 34
+email: tuh@mail.ru
+
